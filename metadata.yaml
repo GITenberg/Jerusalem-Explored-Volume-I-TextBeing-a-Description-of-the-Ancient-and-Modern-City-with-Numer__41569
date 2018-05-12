@@ -1,0 +1,35 @@
+_repo: Jerusalem-Explored-Volume-I-TextBeing-a-Description-of-the-Ancient-and-Modern-City-with-Numer__41569
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bonney, T. G. (Thomas George)
+    alias: Bonney, Thomas George
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '37055'
+    url: http://www.gutenberg.org/2009/agents/37055
+covers:
+- cover_type: archival
+  image_path: 41569-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Pierotti, Ermete
+    gutenberg_agent_id: '41242'
+    url: http://www.gutenberg.org/2009/agents/41242
+description: ''
+gutenberg_issued: '2012-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jerusalem -- Description and travel'
+- !lcsh 'Jerusalem -- Antiquities'
+- !lcc 'DS'
+title: "Jerusalem Explored, Volume 1—Text\r\nBeing a Description of the Ancient and\
+  \ Modern City, with Numerous Illustrations Consisting of Views, Ground Plans and\
+  \ Sections"
+url: http://www.gutenberg.org/ebooks/41569
